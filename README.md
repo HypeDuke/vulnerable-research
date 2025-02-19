@@ -1,0 +1,1 @@
+This folder holds the PawnCS team's collaborative CVE records and serves as a public repository for MITRE, the National Vulnerability Database (NVD), and other security organizations to reference and access CVE descriptions discovered through our collaboration.
